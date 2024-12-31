@@ -10,9 +10,9 @@ no-duplicate-heading:
   siblings_only: true
 no-inline-html: false
 ul-style:
-  style: "dash"
+  style: "dotted"
 ol-prefix:
   style: "ordered"
 code-fence-style:
   style: "backtick"
-emphasis-style: false
+emphasis-style: true
